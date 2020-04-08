@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.deps.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.pdb
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.pdb
